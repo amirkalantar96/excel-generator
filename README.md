@@ -32,8 +32,7 @@
   ```
   Press Enter to create the Excel file:
   ```
-Type your desired filename and press Enter.<br/>
-The file will be generated accordingly.
+Type your desired filename and press Enter. The file will be generated accordingly.
 
 > [!NOTE]
 > This project currently works via CLI (Command Line Interface).<br/>
@@ -45,4 +44,4 @@ The file will be generated accordingly.
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 - **Library:**  
-  ![ExcelJS](https://img.shields.io/badge/ExcelJS-4.4.0-blue?style=flat&logo=Microsoft%20Excel&logoColor=white)
+  [![ExcelJS](https://img.shields.io/badge/ExcelJS-4.4.0-blue?style=flat&logo=Microsoft%20Excel&logoColor=white)](https://www.npmjs.com/package/exceljs)
