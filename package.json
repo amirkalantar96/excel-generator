@@ -1,0 +1,14 @@
+{
+  "name": "excel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "buildExcel": "node index.js"
+  },
+  "author": "https://github.com/amirkalantar96",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "exceljs": "^4.4.0"
+  }
+}
